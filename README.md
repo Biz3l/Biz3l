@@ -7,7 +7,7 @@
 
 - 🤝 I’m looking for help with **Finding a job!**
 
-- 👨‍💻 All of my projects are available at [biz3lportfolio.site](biz3lportfolio.site)
+- 👨‍💻 All of my projects are available at [biz3lportfolio.site](https://biz3lportfolio.site)
 
 - 📫 How to reach me **contato.goalves@gmail.com**
 
