@@ -9,7 +9,7 @@ Focused on backend development with FastAPI and building a solid foundation in r
 ---
 
 - 🎓 I’m currently studying Computer Engineering at UNOPAR  
-- 🌱 Currently learning **FastAPI, APIs development and databases**  
+- 🌱 Currently learning **Java with SpringBoot**  
 - 💼 Looking for a **Junior Backend | Frontend or Fullstack Developer opportunity**  
 - 👨‍💻 Portfolio: https://biz3lportfolio.site  
 - 📫 Contact: **contato.goalves@gmail.com**  
