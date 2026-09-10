@@ -3,42 +3,54 @@
 <h3 align="center">Computer Engineering Student | Backend Developer</h3>
 
 <p align="center">
-Focused on backend development with FastAPI and building a solid foundation in real-world systems.
+Focused on backend development with FastAPI and Spring Boot, building real-world systems — including one that integrates AI for audio transcription.
 </p>
 
 ---
 
-- 🎓 I’m currently studying Computer Engineering at FUMEC
-- 🌱 Currently learning **Java with SpringBoot**  
-- 💼 Looking for a **Junior Backend | Frontend or Fullstack Developer opportunity**  
-- 👨‍💻 Portfolio: https://biz3lportfolio.site  
-- 📫 Contact: **contato.goalves@gmail.com**  
-- ⚡ Fun fact: I enjoy explaining complex topics in a simple way  
+- 🎓 I'm currently studying Computer Engineering at FUMEC
+- 🌱 Currently deepening my skills in **Spring Boot, Spring AI, and code refactoring**
+- 💼 Looking for a **Junior Backend | Frontend or Fullstack Developer opportunity**
+- 👨‍💻 Portfolio: https://biz3lportfolio.site
+- 📫 Contact: **contato.goalves@gmail.com**
+- ⚡ Fun fact: I enjoy explaining complex topics in a simple way
+
+---
+
+## 💼 Featured Projects
+
+**🏦 Banking System API** — [`REPO-LINK`](https://github.com/Biz3l/sistema_bancario_fastapi)
+Backend simulating real banking operations, with JWT authentication, transaction history, and business rule validation.
+`FastAPI` `PyJWT` `PostgreSQL` `SQLAlchemy`
+
+**🎙️ AI-Powered Budgeting API** — [`REPO-LINK`](https://github.com/Biz3l/budgeting-application-java)
+Turns speech into structured data: the user logs an expense by voice, the API transcribes it via the OpenAI API, and records it automatically.
+`Java` `Spring Boot` `Spring AI` `MySQL` `OpenAI API`
 
 ---
 
 ## 🚀 What I'm working on:
 
-- 🔹 Learning how to build REST APIs with FastAPI  
-- 🔹 Studying database modeling with PostgreSQL  
-- 🔹 Improving backend architecture and best practices  
-- 🔹 Exploring fullstack development with React and Node.js  
+- 🔹 Building REST APIs with FastAPI and Spring Boot
+- 🔹 Database modeling with PostgreSQL and MySQL
+- 🔹 Improving backend architecture and testing practices
+- 🔹 Exploring fullstack development with React and Node.js
 
 ---
 
 ## 🛠️ Tech Stack:
 
-**Backend:**  
-Python, FastAPI, Node.js, Express  
+**Backend:**
+Java, Spring Boot, Spring Web, Spring AI, Python, FastAPI, Node.js, Express
 
-**Frontend:**  
-React, Next.js, HTML, CSS, JavaScript  
+**Frontend:**
+React, Next.js, HTML, CSS, JavaScript
 
-**Database:**  
-PostgreSQL  
+**Database:**
+PostgreSQL, MySQL
 
-**Tools & Environment:**  
-Docker, Git, Linux, Nginx  
+**Tools & Environment:**
+Docker, Git, Linux, Nginx
 
 ---
 
