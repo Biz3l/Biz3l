@@ -8,7 +8,7 @@ Focused on backend development with FastAPI and building a solid foundation in r
 
 ---
 
-- 🎓 I’m currently studying Computer Engineering at UNOPAR  
+- 🎓 I’m currently studying Computer Engineering at FUMEC
 - 🌱 Currently learning **Java with SpringBoot**  
 - 💼 Looking for a **Junior Backend | Frontend or Fullstack Developer opportunity**  
 - 👨‍💻 Portfolio: https://biz3lportfolio.site  
