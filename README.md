@@ -11,7 +11,7 @@ Focused on backend development with FastAPI and Spring Boot, building real-world
 - 🎓 I'm currently studying Computer Engineering at FUMEC
 - 🌱 Currently deepening my skills in **Spring Boot, Spring AI, and code refactoring**
 - 💼 Looking for a **Junior Backend | Frontend or Fullstack Developer opportunity**
-- 👨‍💻 Portfolio: https://biz3lportfolio.site
+- 👨‍💻 Portfolio: https://biz3l.github.io/Portfolio_Site/
 - 📫 Contact: **contato.goalves@gmail.com**
 - ⚡ Fun fact: I enjoy explaining complex topics in a simple way
 
